@@ -90,10 +90,9 @@ GitHub repository: https://github.com/YOUR-USERNAME/sc-location-tool
 
 ## 👤 Author
 
-**[Your Name]**
-- Affiliation: [Your Institution]
-- Email: [Your Email]
-- Website: [Your Website]
+**Shakhawat H. Tanim**
+- Affiliation: Clemson University 
+- Website: (https://stanim.people.clemson.edu/index.html)
 
 ## 📜 License
 
